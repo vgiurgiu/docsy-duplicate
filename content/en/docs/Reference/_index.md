@@ -1,9 +1,9 @@
 ---
 title: "Reference"
 linkTitle: "Reference"
-weight: 9
+weight: 6
 description: >
-  Low level reference docs for your project.
+  Information about the technology that powers RemoteScope telescopes, our physical viewing location, and other reference material.
 ---
 
 {{% pageinfo %}}
