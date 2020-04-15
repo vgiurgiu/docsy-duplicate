@@ -13,7 +13,7 @@ RemoteScope overview documentation
 
 ## What is RemoteScope?
 
-We have an array of 40 telescopes in upstate New York that you can operate remotely to explore the night sky.
+RemoteScope provides an array of 40 telescopes in upstate New York that you can operate remotely to explore the night sky.
 
 ## Why do I want it?
 
@@ -31,6 +31,6 @@ For advanced users, our API allows you to integrate with our telescopes and auto
 
 Start with the following sections
 
-* [Getting Started](/content/en/docs/Getting started/_index.md)
-* [Authentication](content/en/docs/RemoteScope API/api-authentication.md): Authenticate to the API
+* [Getting Started](/getting-started/)
+* [API Authentication](/remotescope-api/api-authentication/)
 
