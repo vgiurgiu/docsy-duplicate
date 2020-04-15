@@ -13,7 +13,11 @@ Use the documentation in this section to get started using RemoteScope and to in
 {{% /pageinfo %}}
 
 
-This section covers information from Getting Started for basic use cases, information about our telescope technology in the Reference section, tutorials, and advanced technical documentation to use our telescopes in an automated manner. More advanced use cases include booking telescope hours in an automated manner, remote operation, and even remote astrophotography.  
+The documentation section provides all the information you need to successfully use Remotescope. 
+
+Start with the Getting Started page to understand basic use cases. See the Reference page to find information about our telescope technology. Browse tutorials and advanced technical documentation to learn how to use our telescopes in an automated manner. 
+
+More advanced use cases include booking telescope hours in an automated manner, remote operation, and even remote astrophotography. We have documentation about all of that. 
 
 For information about the monthly RemoteScope events, see our [Blog](/blog/) section.
 
