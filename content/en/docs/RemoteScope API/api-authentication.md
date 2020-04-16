@@ -18,7 +18,7 @@ Before you can start using the API, you need to do the following:
 
 
 
-## Send your email using the API
+## Take a first photo using the RemoteScope API
 To take a first photo using the RemoteScope API:
 
 ```
