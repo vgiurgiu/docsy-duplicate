@@ -12,6 +12,8 @@ This is a placeholder page that shows you how to use this template site.
 
 # Our telescopes
 
+Our telscopes are super amazing.
+
 We operate a number of different telescopes. Our main two telescopes are pictured below, but we have a total of 40 telescopes and will operate our first orbital telescope starting in 2021. 
 
 ![](/content/en/two-scopes.jpg)
