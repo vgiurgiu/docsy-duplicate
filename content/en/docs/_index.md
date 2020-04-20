@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-Use the documentation in this section to get started using RemoteScope and to integrate with RemoteScope for more advanced use cases. 
+Use the documentation in this section to get started with RemoteScope and then use RemoteScope for more advanced use cases. 
 {{% /pageinfo %}}
 
 

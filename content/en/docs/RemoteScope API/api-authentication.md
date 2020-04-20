@@ -40,5 +40,5 @@ curl --request POST \
 4. Copy the code and paste it in your terminal.
 5. Hit Enter.
 
-Check your inbox of the address connected to your RemoteScope account and see your message!
+Check the inbox of the email address connected to your RemoteScope account to see your photo!
 
