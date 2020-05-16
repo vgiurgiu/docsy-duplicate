@@ -20,17 +20,23 @@ Consider using the headings below for your getting started page. You can delete 
 
 ## Prerequisites
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+An existing passion for astronomy or curiosity to see the wonders of the sky
 
 ## Installation
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+### Web app
+
+To use the web client, go to our website.
+
+### RemoteScope API
+
+See the API documentation.
 
 ## Setup
 
-Is there any initial setup users need to do after installation to try your project?
+Will add setup instructions here.
 
 ## Try it out!
 
-Can your users test their installation, for example by running a commmand or deploying a Hello World example?
+Will add a quick try it out example here.
 

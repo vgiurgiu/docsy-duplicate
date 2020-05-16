@@ -3,15 +3,17 @@ title: "Concepts"
 linkTitle: "Concepts"
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  This section defines the concepts you need to understand to successfully use RemoteScope 
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+The concepts you need to understand are listed in alphabetical order. 
 {{% /pageinfo %}}
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+**Andromeda**
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+Andromeda is one of the largest constellations in the night sky and is home to one of the most distant objects visible to the naked eye - the mighty Andromeda Galaxy (M31). The constellation also contains several stars with known exoplanets, and two dwarf elliptical galaxies, containing tens-of-billions of stars each (M32 and M110). This information is from Slooh guides. See https://live.slooh.com/guides/object-category/139.
 
+**The Moon**
 
+The Earth’s Moon is the fifth largest in our Solar System and the largest moon in ratio to its host planet at 27% the size of Earth. It is the one place beyond Earth where humans have touched ground. This information is from Slooh guides. See https://live.slooh.com/guides/object-category/306. 
