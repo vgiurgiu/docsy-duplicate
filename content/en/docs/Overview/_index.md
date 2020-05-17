@@ -31,6 +31,6 @@ For advanced users, our API allows you to integrate with our telescopes and auto
 
 Start with the following sections
 
-* [Getting Started](/docs/getting-started/)
-* [API Authentication](/docs/remotescope-api/api-authentication/)
+* [Getting Started](/getting-started/)
+* [API Authentication](/remotescope-api/api-authentication/)
 
