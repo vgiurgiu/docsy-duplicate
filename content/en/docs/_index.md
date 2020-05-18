@@ -13,7 +13,7 @@ Use the documentation in this section to get started with RemoteScope and then u
 {{% /pageinfo %}}
 
 
-The documentation section provides all the information you need to successfully use Remotescope. 
+The documentation section provides all the information you need to successfully use RemoteScope. 
 
 Start with the [Getting Started](/getting-started/) page to understand basic use cases. See the [Reference](/reference/) page to find information about our telescope technology. Browse tutorials and advanced technical documentation to learn how to use our telescopes in an automated manner. 
 
