@@ -29,6 +29,8 @@ We operate a number of different telescopes. Our main two telescopes are picture
 
 The tables below are all copied from [Slooth's guide for the Chile telescope](https://live.slooh.com/guides/topic/39). 
 
+<br>&nbsp;
+
 **Telescope Specification**
 
 **Manufacturer:**|**Celestron**
@@ -40,10 +42,12 @@ Nominal Focal Ratio: |f/11
 Slooh Designation Code:|C1-WF-358
 
 
+<br>&nbsp;
+
 
 **CCD Camera Specification**
 
-**Manufacturer: **|**Diffraction Limited SBIG**
+**Manufacturer:**|**Diffraction Limited SBIG**
 :-----:|:-----:
 Model: |STL-11000M
 CCD Chip: |Kodak KAI-11000
@@ -53,9 +57,11 @@ Sensor Size: |36.072×24.048mm
 Peak QE: |42%
 Anti-Blooming: |Yes
 
+<br>&nbsp;
+
 **Mount Specification**
 
-**Manufacturer: **|**Software Bisque**
+**Manufacturer:**|**Software Bisque**
 :-----:|:-----:
 Model: |Paramount ME (Mk4000)
 Type: |German Equatorial Mount (GEM)

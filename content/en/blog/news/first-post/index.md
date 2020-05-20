@@ -8,7 +8,7 @@ resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+    byline: "Photo: Patrick Hendry (downloaded from Unsplash)"
 ---
 
 **RemoteScope is live**
