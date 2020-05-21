@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This page assumes that you have already read the [Authentication guide](/content/en/docs/RemoteScope API/api-authentication.md) and successfully authenticated to the API.
+This page assumes that you have already read the [Authentication guide](https://remotescope.netlify.app/docs/remotescope-api/api-authentication/) and successfully authenticated to the API.
 {{% /pageinfo %}}
 
 
