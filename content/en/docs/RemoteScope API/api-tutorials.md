@@ -28,7 +28,7 @@ Simply schedule your observation plan and it will be queued and executed automat
 
 To do this,
 
-1. Log into the RemoteScope API following the instructions in [RemoteScope API Authentication](https://remotescope.netlify.app/docs/remotescope-api/api-authentication/).
+1. Log into the RemoteScope API following the instructions in [RemoteScope API Authentication](/api-authentication.md/).
 2. Select which telescope to use and the configurations for your observation. See the sample API call below:
 
 ```
