@@ -31,7 +31,7 @@ The tables below are all copied from [Slooth's guide for the Chile telescope](ht
 
 **Telescope Specification**
 
-**Manufacturer**|**Celestron**
+**Manufacturer:**|**Celestron**
 :-----:|:-----:
 Model:|EdgeHD 1400 Schmidt-Cassegrain Catadioptric (SCT)
 Aperture:|14" (355.6mm)
@@ -40,9 +40,10 @@ Nominal Focal Ratio: |f/11
 Slooh Designation Code:|C1-WF-358
 
 
+
 **CCD Camera Specification**
 
-**Manufacturer**|**Diffraction Limited SBIG**
+**Manufacturer: **|**Diffraction Limited SBIG**
 :-----:|:-----:
 Model: |STL-11000M
 CCD Chip: |Kodak KAI-11000
@@ -54,7 +55,7 @@ Anti-Blooming: |Yes
 
 **Mount Specification**
 
-**Manufacturer**|**Software Bisque**
+**Manufacturer: **|**Software Bisque**
 :-----:|:-----:
 Model: |Paramount ME (Mk4000)
 Type: |German Equatorial Mount (GEM)
