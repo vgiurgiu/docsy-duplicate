@@ -3,16 +3,16 @@
 title: "Release Notes"
 linkTitle: "Release Notes"
 weight: 7
-date: 2020-03-27
+date: 2020-05-23
 description: >
   What's new in the RemoteScope world
 ---
 
 {{% pageinfo %}}
-Browse our release notes to find out what the team has been working on.
+Browse the release notes to find out what the team has been working on.
 {{% /pageinfo %}}
 
-## March 2020
+## April 2020
 
 ### New features
 
@@ -25,4 +25,12 @@ Browse our release notes to find out what the team has been working on.
 
 * Fixed an issue where a customer saw a flying saucer. We kindly asked the visitors to not disturb our viewers' telescope time. 
 
+## March 2020
+
+### New telescopes live
+
+We have two new telescopes online, Klaus and Johannis. For information about their specs and how to use them, see the [Telescopes reference](https://remotescope.netlify.app/docs/reference/) section in the documentation.
+
 ## February 2020
+
+General release of RemoteScope. See the [documentation overview](https://remotescope.netlify.app/docs/overview/) for more information.
